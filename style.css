@@ -10,3 +10,12 @@ html {
 h1 {
   font-family: "Poetsen One", sans-serif;
 }
+h3 {
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+img {
+  border: 5px solid black
+}
+button {
+  color:aqua
+}
